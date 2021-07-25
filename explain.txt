@@ -1,0 +1,1 @@
+To launch the project, use the "make" command then run the executable "./wolfram --rule xx --lines xx".
